@@ -1,3 +1,12 @@
 name: Sai Zhai
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+#siderbar setting
+sidebar: true
+sidebar-about-description: "简单的描述一下你自己"
+#sidebar-avatar
+
+#featured tags
+featured-tags: true
+featured-condition-size:1
