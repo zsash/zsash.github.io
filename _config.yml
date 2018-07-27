@@ -1,2 +1,3 @@
 name: Sai Zhai
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
